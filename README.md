@@ -8,7 +8,7 @@ J'aime comprendre comment les choses fonctionnent, du code jusqu'à l'infrastruc
 
 - 🔭 **Intérêts :** développement full-stack · IA appliquée · cybersécurité · cloud et DevOps
 - 🌱 **En apprentissage :** TypeScript · Docker · ASP.NET Core
-- 🗣️ **Langues :** français · anglais
+- 🗣️ **Langues :** français 
 
 ## 🛠️ Technologies
 
