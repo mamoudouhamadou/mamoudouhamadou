@@ -1,16 +1,24 @@
-## Hi there 👋
+![Mamoudou Hamadou](entete-github.png)
 
-<!--
-**mamoudouhamadou/mamoudouhamadou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 À propos
 
-Here are some ideas to get you started:
+Étudiant en **génie logiciel** à l'**Université Laval** (Québec).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'aime comprendre comment les choses fonctionnent, du code jusqu'à l'infrastructure. J'apprends en construisant des projets concrets, et pour moi un projet est terminé quand il est **testé, documenté et déployé**.
+
+- 🔭 **Intérêts :** développement full-stack · IA appliquée · cybersécurité · cloud et DevOps
+- 🌱 **En apprentissage :** TypeScript · Docker · ASP.NET Core
+- 🗣️ **Langues :** français · anglais
+
+## 🛠️ Technologies
+
+| Domaine | Outils |
+|---|---|
+| Langages | Python · C++ · JavaScript · TypeScript · SQL |
+| Web | Vue.js · React · Node.js |
+| Données et IA | pandas · scikit-learn |
+| Outils | Git · GitHub · Docker · Linux |
+
+## 📌 Projets
+
+Mes projets sont épinglés juste en dessous. 👇
